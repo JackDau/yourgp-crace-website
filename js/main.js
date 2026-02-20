@@ -96,6 +96,26 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   }
 
+  // Sticky sidebar (doctors page and others with sidebar)
+  var sidebar = document.querySelector('.sidebar');
+  if (sidebar && window.innerWidth > 992) {
+    var sidebarTop = sidebar.getBoundingClientRect().top + window.scrollY;
+    var sidebarWidth = sidebar.offsetWidth;
+    window.addEventListener('scroll', function() {
+      if (window.innerWidth > 992) {
+        if (window.scrollY > sidebarTop - 20) {
+          sidebar.style.position = 'fixed';
+          sidebar.style.top = '20px';
+          sidebar.style.width = sidebarWidth + 'px';
+        } else {
+          sidebar.style.position = '';
+          sidebar.style.top = '';
+          sidebar.style.width = '';
+        }
+      }
+    });
+  }
+
   // Services/FAQ accordion toggle
   document.querySelectorAll('.services-row').forEach(function(row) {
     row.querySelectorAll('p').forEach(function(p) { p.style.display = 'none'; });
