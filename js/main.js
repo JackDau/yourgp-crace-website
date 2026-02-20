@@ -100,16 +100,19 @@ document.addEventListener('DOMContentLoaded', function() {
   var sidebar = document.querySelector('.sidebar');
   if (sidebar && window.innerWidth > 992) {
     var sidebarTop = sidebar.getBoundingClientRect().top + window.scrollY;
+    var sidebarLeft = sidebar.getBoundingClientRect().left;
     var sidebarWidth = sidebar.offsetWidth;
     window.addEventListener('scroll', function() {
       if (window.innerWidth > 992) {
         if (window.scrollY > sidebarTop - 20) {
           sidebar.style.position = 'fixed';
           sidebar.style.top = '20px';
+          sidebar.style.left = sidebarLeft + 'px';
           sidebar.style.width = sidebarWidth + 'px';
         } else {
           sidebar.style.position = '';
           sidebar.style.top = '';
+          sidebar.style.left = '';
           sidebar.style.width = '';
         }
       }
