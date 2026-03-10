@@ -1,0 +1,78 @@
+;;
+;; Domain:     yourgpcrace.com.au.
+;; Exported:   2026-03-09 02:45:03
+;;
+;; This file is intended for use for informational and archival
+;; purposes ONLY and MUST be edited before use on a production
+;; DNS server.  In particular, you must:
+;;   -- update the SOA record with the correct authoritative name server
+;;   -- update the SOA record with the contact e-mail address information
+;;   -- update the NS record(s) with the authoritative name servers for this domain.
+;;
+;; For further information, please consult the BIND documentation
+;; located on the following website:
+;;
+;; http://www.isc.org/
+;;
+;; And RFC 1035:
+;;
+;; http://www.ietf.org/rfc/rfc1035.txt
+;;
+;; Please note that we do NOT offer technical support for any use
+;; of this zone data, the BIND name server, or any other third-party
+;; DNS software.
+;;
+;; Use at your own risk.
+;; SOA Record
+yourgpcrace.com.au	3600	IN	SOA	anuj.ns.cloudflare.com. dns.cloudflare.com. 2052469090 10000 2400 604800 3600
+
+;; NS Records
+yourgpcrace.com.au.	86400	IN	NS	anuj.ns.cloudflare.com.
+yourgpcrace.com.au.	86400	IN	NS	indie.ns.cloudflare.com.
+
+;; A Records
+cpanel.dev.yourgpcrace.com.au.	1	IN	A	98.142.106.122 ; cf_tags=cf-proxied:false
+cpanel.yourgpcrace.com.au.	1	IN	A	98.142.106.122 ; cf_tags=cf-proxied:false
+cpcalendars.dev.yourgpcrace.com.au.	1	IN	A	98.142.106.122 ; cf_tags=cf-proxied:false
+cpcalendars.yourgpcrace.com.au.	1	IN	A	98.142.106.122 ; cf_tags=cf-proxied:false
+cpcontacts.dev.yourgpcrace.com.au.	1	IN	A	98.142.106.122 ; cf_tags=cf-proxied:false
+cpcontacts.yourgpcrace.com.au.	1	IN	A	98.142.106.122 ; cf_tags=cf-proxied:false
+dev.yourgpcrace.com.au.	1	IN	A	98.142.106.122 ; cf_tags=cf-proxied:false
+localhost.yourgpcrace.com.au.	1	IN	A	127.0.0.1 ; cf_tags=cf-proxied:false
+remote.yourgpcrace.com.au.	600	IN	A	203.29.87.189 ; cf_tags=cf-proxied:false
+webdisk.dev.yourgpcrace.com.au.	1	IN	A	98.142.106.122 ; cf_tags=cf-proxied:false
+webdisk.yourgpcrace.com.au.	1	IN	A	98.142.106.122 ; cf_tags=cf-proxied:false
+webmail.dev.yourgpcrace.com.au.	1	IN	A	98.142.106.122 ; cf_tags=cf-proxied:false
+webmail.yourgpcrace.com.au.	1	IN	A	98.142.106.122 ; cf_tags=cf-proxied:false
+whm.dev.yourgpcrace.com.au.	1	IN	A	98.142.106.122 ; cf_tags=cf-proxied:false
+whm.yourgpcrace.com.au.	1	IN	A	98.142.106.122 ; cf_tags=cf-proxied:false
+www.dev.yourgpcrace.com.au.	1	IN	A	98.142.106.122 ; cf_tags=cf-proxied:false
+yourgpcrace.com.au.	1	IN	A	98.142.106.122 ; cf_tags=cf-proxied:false
+
+;; CNAME Records
+_01013b23fe33da66d93aa7791db4f853.yourgpcrace.com.au.	1	IN	CNAME	717970df1c9bd258d81877a3bffd761e.fc4a34002ca085110bf90086512ff6df.b55thj5bibvi7kppaif5.comodoca.com. ; cf_tags=cf-proxied:false
+_2109ea3fe5db93daf2659ba9e72982d2.yourgpcrace.com.au.	1	IN	CNAME	119677c207b4ab6160f7d07f104109f5.639833e1f10e9a6030240a7fcdc0b6b8.1ee5c55555as5g9tjgur.comodoca.com. ; cf_tags=cf-proxied:false
+_5c3c206439a12a058c65442b98b36424.remote.yourgpcrace.com.au.	1	IN	CNAME	da1e6a672cfe2535cd782414ce913b11.c21b03d300546e24f1e30480d7e33fbe.5t5xu5go5i55m5t59ahj.sectigo.com. ; cf_tags=cf-proxied:false
+autodiscover.yourgpcrace.com.au.	1	IN	CNAME	autodiscover.outlook.com. ; cf_tags=cf-proxied:false
+_d99e46a5e93ff9f281fab4db5fb2eaca.yourgpcrace.com.au.	3600	IN	CNAME	96dc91f7ea265d42b5a78c5a871c7789.0b21463a0f43e02d84a066f80c024945.wiso5riw5r5uhmkr5qb0.comodoca.com. ; cf_tags=cf-proxied:false
+em455378.yourgpcrace.com.au.	1	IN	CNAME	return.smtp2go.net. ; cf_tags=cf-proxied:false
+em486340.yourgpcrace.com.au.	1	IN	CNAME	return.smtp2go.net. ; cf_tags=cf-proxied:false
+_f6477e4dcbf165edbce6e38b7fcd026a.yourgpcrace.com.au.	3600	IN	CNAME	c25d730720a7c4384c2eeccad2e988cf.0fdb64e4dc7f776d754209e08be8eb5d.f5258n5qafvgaxu55s5m.comodoca.com. ; cf_tags=cf-proxied:false
+ftp.yourgpcrace.com.au.	1	IN	CNAME	yourgpcrace.com.au. ; cf_tags=cf-proxied:false
+link.yourgpcrace.com.au.	1	IN	CNAME	track.smtp2go.net. ; cf_tags=cf-proxied:false
+mail.yourgpcrace.com.au.	1	IN	CNAME	yourgpcrace.com.au. ; cf_tags=cf-proxied:false
+qebbjx4brkzh.yourgpcrace.com.au.	1	IN	CNAME	gv-4pr634ezqwwyoi.dv.googlehosted.com. ; cf_tags=cf-proxied:false
+s455378._domainkey.yourgpcrace.com.au.	1	IN	CNAME	dkim.smtp2go.net. ; cf_tags=cf-proxied:false
+s486340._domainkey.yourgpcrace.com.au.	1	IN	CNAME	dkim.smtp2go.net. ; cf_tags=cf-proxied:false
+www.yourgpcrace.com.au.	1	IN	CNAME	yourgpcrace.com.au. ; cf_tags=cf-proxied:false
+
+;; MX Records
+yourgpcrace.com.au.	1	IN	MX	0 yourgpcrace-com-au.mail.protection.outlook.com.
+
+;; TXT Records
+_cpanel-dcv-test-record.yourgpcrace.com.au.	1	IN	TXT	"_cpanel-dcv-test-record=TDlnyI5TOdSem7ikGRAcIl1jxDxtgbSR4r1EOesBjIYH1ndytkPb3Tljn4Wx4WwW"
+yourgpcrace.com.au.	1	IN	TXT	"_hwdh9h71f8swkg80jlrbv7fmetoymb0"
+yourgpcrace.com.au.	1	IN	TXT	"ggq066dkl3m83cfd1fbyrr3nnl0y0rd7"
+yourgpcrace.com.au.	1	IN	TXT	"v=spf1 include:spf.protection.outlook.com include:smtp.sendgrid.net ~all"
+yourgpcrace.com.au.	1	IN	TXT	"MS=ms17605263"
+yourgpcrace.com.au.	1	IN	TXT	"google-site-verification=uj_I0vJvmJj_yuYZwSBj6EZIE5O7dQQfe1lS_q30QR8"
