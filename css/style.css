@@ -947,6 +947,8 @@ a {
 
 		display: inline-block;
 
+		vertical-align: top;
+
 		width: 26%;
 
 		padding: 2%;
