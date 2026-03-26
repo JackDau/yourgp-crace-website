@@ -1,0 +1,69 @@
+# YourGP@Crace
+
+> General practice medical clinic in Crace, Canberra. Part of the YourGP group with locations in Crace, Lyneham, and Denman Prospect. Vision: Genuine Care, Clinical Excellence.
+
+## Website Information
+
+- URL: https://yourgpcrace.com.au
+- Practice: YourGP@Crace
+- Phone: (02) 6109 0000
+- Fax: (02) 6109 0001
+- Booking System: HotDoc (online appointment booking)
+- HealthLink EDI: yourgpat
+
+## Locations
+
+### YourGP@Crace (Primary)
+- Address: 1/5 Baratta Street, Crace ACT 2911
+- Hours: Monday–Friday 8am–6pm, Saturday 9am–1pm
+
+### YourGP@Lyneham
+- Address: 62 Brigalow Street, Lyneham ACT 2602 (next to Tilley's café)
+- Hours: Monday–Thursday 8am–6pm, Friday 8am–12pm
+
+### YourGP@Denman
+- Address: Level 1, 1B Felstead Vista, Denman Prospect ACT 2611
+- Hours: Monday–Friday 8am–6pm
+
+## Pages
+
+### Home
+- Path: /
+- Description: Practice overview with vision statement, opening hours for all locations, Google Maps embed, and online appointment booking link via HotDoc.
+
+### Doctors
+- Path: /doctors
+- Description: Directory of 24+ doctors and staff with profile photos and expandable biographical details. Interactive cards showing qualifications, special interests, and availability.
+
+### Services
+- Path: /services
+- Description: 16 primary care services with expandable descriptions — Children's Health, Immunisations, Chronic Disease Management (cardiovascular, diabetes, arthritis), Driver's Medicals, Men's Health, Women's Health, Mental Health, Minor Procedures (IUD insertion, skin cancer removal, vasectomy, tongue tie), Musculoskeletal care, Travel Vaccinations, Skin Checks, Workers Compensation, After Hours care. Allied Health services include 4Cyte Pathology and Nursing.
+
+### New Patient
+- Path: /patient
+- Description: New patient registration with online form link. Billing information with four consultation levels (B, C, D, E) at different durations and costs. Saturday fee schedule. After-hours care options with embedded JotForm for prepayment.
+
+### FAQ
+- Path: /faq
+- Description: 16 frequently asked questions covering appointments, urgent bookings, billing and payment, parking, languages and interpreters, confidentiality, medical certificates, results, contacting doctors, repeat prescriptions, email communication, reminders, after-hours care, accreditation (AGPAL), teaching practice information, and complaints process.
+
+### Contact
+- Path: /contact
+- Description: Contact methods (online form, phone, fax), prescription and referral request links, opening hours for all locations, after-hours information (CALMS 1300 422 567), Google Maps embed, and all three location addresses.
+
+### Careers
+- Path: /careers
+- Description: Recruitment information for GPs (independent contractors), Nurses (integrated care team), and Admin staff. RACGP Award recognition. Link to Microsoft Forms application.
+
+### Privacy Policy
+- Path: /privacy-policy
+- Description: Full YourGP privacy policy covering personal information collection, use, storage, and protection. Reviewed February 2026. PDF version available for download.
+
+## Key Facts
+
+- Billing: Private billing (no bulk billing). Consultation fees vary by level (B through E) and day.
+- After Hours: CALMS (Canberra Afterhours Locum Service) 1300 422 567, Healthdirect 1800 022 222
+- Saturday Clinic: Available at YourGP@Crace 9am–1pm
+- Accreditation: AGPAL accredited
+- Teaching Practice: Trains GP registrars
+- Patient Volume: 100,000+ annual patient visits across all locations
