@@ -15,6 +15,7 @@
 <meta name="twitter:title" content="YourGP@Crace - Genuine Care, Clinical Excellence">
 <meta name="twitter:description" content="YourGP@Crace — General practice in Crace, Canberra. Genuine care, clinical excellence. Book online or call (02) 6109 0000.">
 <link rel="icon" href="favicon.ico">
+<link rel="alternate" type="text/markdown" href="/llms.txt" title="LLM-readable site summary">
 <link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
 
 <!-- Facebook Pixel Code -->
@@ -287,11 +288,17 @@ chosen link or button. -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalBusiness",
+  "@type": "MedicalClinic",
+  "@id": "https://www.yourgpcrace.com.au/#clinic",
   "name": "YourGP@Crace",
+  "alternateName": "YourGP Crace",
   "url": "https://www.yourgpcrace.com.au",
   "telephone": "(02) 6109 0000",
-  "description": "General practice in Crace, Canberra. Genuine care, clinical excellence.",
+  "description": "General practice in Crace, Canberra. Genuine care, clinical excellence. Part of the YourGP network of independent practices.",
+  "image": "https://www.yourgpcrace.com.au/images/logo-top.png",
+  "priceRange": "$$",
+  "currenciesAccepted": "AUD",
+  "paymentAccepted": "Credit Card, EFTPOS, Cash",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1/5 Baratta Street",
@@ -300,10 +307,35 @@ chosen link or button. -->
     "postalCode": "2911",
     "addressCountry": "AU"
   },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -35.2259,
+    "longitude": 149.1184
+  },
   "openingHoursSpecification": [
     {"@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"], "opens": "08:00", "closes": "18:00"},
     {"@type": "OpeningHoursSpecification", "dayOfWeek": "Saturday", "opens": "09:00", "closes": "13:00"}
-  ]
+  ],
+  "medicalSpecialty": "GeneralPractice",
+  "isAcceptingNewPatients": true,
+  "availableService": [
+    {"@type": "MedicalProcedure", "name": "General Practice Consultations"},
+    {"@type": "MedicalProcedure", "name": "Chronic Disease Management"},
+    {"@type": "MedicalProcedure", "name": "Childhood Immunisations"},
+    {"@type": "MedicalProcedure", "name": "Skin Cancer Checks"},
+    {"@type": "MedicalProcedure", "name": "Minor Procedures"},
+    {"@type": "MedicalProcedure", "name": "Women's Health"},
+    {"@type": "MedicalProcedure", "name": "Men's Health"},
+    {"@type": "MedicalProcedure", "name": "Mental Health Care Plans"},
+    {"@type": "MedicalProcedure", "name": "Travel Vaccinations"},
+    {"@type": "MedicalProcedure", "name": "Vasectomy"}
+  ],
+  "sameAs": ["https://www.facebook.com/YourGPCrace/"],
+  "parentOrganization": {
+    "@type": "MedicalOrganization",
+    "name": "YourGP",
+    "url": "https://www.yourgpcrace.com.au"
+  }
 }
 </script>
 
