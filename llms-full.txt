@@ -36,6 +36,9 @@ Phone: (02) 6109 0000
 
 ## Doctors
 
+### Dr Reiham Ibrahim — Skin
+Soon to be an Accredited Skin Cancer Doctor with the Skin Cancer College Australasia, Dr Ibrahim has removed thousands of lesions and provides expert care for both simple and complex skin cancers at our dedicated Skin Clinic. Whether you're booking a routine skin check or need expert care for a suspicious spot, you're in exceptionally capable hands with Dr Reiham Ibrahim.
+
 ### Dr Roslyn Mackenzie
 **New patients welcome**
 Dr Mackenzie spent 17 years in Sub-Saharan Africa doing humanitarian work as a GP obstetrician. She also has experience working as a GP in the Northern Territory and more recently has been working in Emergency at The Canberra Hospital. She is a graduate of the University of Melbourne. Dr Mackenzie enjoys the breadth of general practice and providing holistic care for patients across all stages of life.
@@ -73,12 +76,12 @@ John takes a special interest in men's health, skin cancer medicine and performi
 
 ### Dr Tom Mills
 **New patients welcome**
-Dr Tom Mills graduated from the Australian National University in 2018. He is currently training as a General Practice Registrar and has a special interest in travel medicine, including administering travel vaccines and yellow fever vaccinations, as well as men's health.
+Dr Tom Mills graduated from the Australian National University in 2018 and worked in Canberra Hospitals for four years. He is currently training as a General Practice Registrar and has a special interest in travel medicine, including administering travel vaccines and yellow fever vaccinations, as well as men's health.
 **Availability**: Crace — Monday, Tuesday, Thursday, Friday
 
 ### Dr Vanessa Thorn
 **New patients welcome**
-Dr Vanessa Thorn relocated from QLD in 2023 where she completed her GP training in 2019. She has an interest in antenatal care and paediatrics, and has completed a Diploma in Child Health (Sydney).
+Dr Vanessa Thorn has relocated from QLD in 2023 where she completed her GP training in 2019. She has an interest in antenatal care and paediatrics, and has completed a Diploma in Child Health (Sydney). She especially enjoys seeing the whole family, which is one of unique joys of general practice.
 **Availability**: Crace — Monday, Thursday
 
 ### Dr Joanna Lin
@@ -93,6 +96,56 @@ Clare has a particular passion for paediatrics, women's health, emergency medici
 ### Dr Lisa Bron
 **Sees existing patients of YourGP** (new patients restricted to immediate family of existing patients)
 Lisa graduated from Otago University in 1993. She was awarded her General Practice Fellowship in 2003 and completed her Master of Family Medicine (Monash) in 2016. Special interests include health of children and their families, mental health, chronic disease management, palliative care and medical education. Lisa is currently involved in teaching clinical skills to medical students at ANU.
+**Availability**: Crace — Monday, Tuesday, Wednesday
+
+### Dr Raymond Liu
+**New patients welcome**
+Raymond is passionate about holistic patient care and has strong interests ranging from skin cancer, chronic disease management to end-of-life care. Raymond completed his medical degree at the Australian National University and finished the Sydney Child Health Program. He is currently pursuing a Master in Skin Cancer Medicine.
+**Availability**: Crace — Monday, Tuesday; Lyneham — Thursday
+
+### Dr Krystel Chin
+**Only accepts existing patients of YourGP**
+Dr Krystel hails from Mauritius and holds a medical degree from the University of Manchester, UK. After moving to Australia in 2008, she gained extensive experience in acute and emergency medicine before transitioning to General Practice in Canberra. Areas of interest: Women's Health, Antenatal Care, Paediatrics, Preventative Health, Minor Surgery, Chronic Disease Management.
+**Availability**: Crace — Monday, Tuesday, Wednesday, Friday
+
+### Dr Sam Primrose
+**Not accepting new patients except skin patients**
+Grew up in Belconnen. Studied medicine at Flinders University, graduating in 2014. Diploma of Child Health, Sydney Children's Hospital. Areas of interest: Paediatrics, Men's Health, Mental Health, Skin Checks, Family Health, Sports Medicine.
+**Availability**: Crace — Monday, Tuesday, Thursday, Friday
+
+### Dr Ian Chan — Skin
+**Accepting new patients for skin-related visits only**
+Ian has completed advanced training with a Masters in Skin Cancer Medicine through the University of Queensland. He enjoys continuing medical education through teaching medical students. Consultation fees: $190 standard skin consult (15 min), $230 longer consult (>20 min). Does not accept DVA direct billing for skin consultations.
+**Availability**: Crace — Monday, Tuesday, Wednesday, Friday
+
+### Dr Penny Gosling
+**Not accepting new patients**
+Graduated from the Australian National University in 2008. Areas of interest: PCOS, Sexual Health, Women's Health, Fertility and Pregnancy Care, Lactation Support, Infant and Child Health.
+**Availability**: Crace — Monday, Tuesday, Wednesday, Thursday, Friday
+
+### Dr Kit Wong — Skin
+**Sees existing patients and accepting new patients for skin-related visits only**
+Graduated with honours from the University of Sydney in 2006. RACGP Fellowship completed in 2011. Masters of Medicine (Skin Cancer) from the University of Queensland in 2018. Over 10 years experience in Skin Cancer Medicine. Consultation fee: $190 regular consult, $230 long appointment.
+**Availability**: Crace — Wednesday, Friday
+
+### Dr Julie Beuth (Hewitt)
+**Not accepting new patients**
+A Kiwi import with over 35 years experience in general practice. Owned her own practice in Macquarie, ACT for 16 years. One of the original GPs at YourGP@Crace when it opened in 2014. Special clinical interests include skin cancer medicine and surgery and women's health.
+**Availability**: Crace — Monday, Tuesday, Wednesday, Thursday
+
+### Dr Janine Kelly
+**Not accepting new patients**
+Graduate of the University of Sydney in 1995. Eighteen years of experience in General Practice. Special interests in women's health, pregnancy and paediatrics.
+**Availability**: Crace — Monday, Tuesday, Wednesday, Thursday, Friday
+
+### Dr Neena Sood
+**New patients welcome**
+Dr Sood has a special interest in Dermatology and has completed a Post Graduate Diploma in Practical Dermatology at the University of Wales, UK. She is not a Dermatologist but has wide experience looking after patients with skin, hair and nail problems. Previously operated as Principal Doctor of Ngunnawal Skin Clinic for 15 years. Consultation fees: $133 standard (15 min), $235 long (30 min), $290 extended (>40 min).
+
+### Dr John Deery
+**Accepting new vasectomy patients only**
+From the moment John started General Practice in 2003, he desired to one day open an outstanding practice. He is passionate about providing amazing health care to patients. John graduated from the University of NSW in 2000.
+**Availability**: Crace — Thursday, Friday; Lyneham — Wednesday; Denman — Monday
 
 ---
 
@@ -105,7 +158,7 @@ Paediatrics is a special interest of the GPs. Kids love to visit. Dr Sam Primros
 GPs and nurses are supportive of childhood vaccinations. They are safe and an effective way to protect your child. Immunisation records are uploaded electronically to the Australian Immunisation Register.
 
 ### Chronic Disease Management
-GPs are highly experienced at helping patients with diabetes, heart disease, asthma, COPD, mental health conditions and other chronic diseases.
+GPs are highly experienced at helping patients with cardiovascular disease, Type 2 Diabetes, osteoarthritis, chronic kidney disease, and autoimmune diseases including rheumatoid arthritis, ankylosing spondylitis, and psoriatic arthritis.
 
 ### Driver's Medicals
 Commercial driving medical assessments require a double length appointment. For non-commercial licences for chronic medical conditions book a standard appointment.
@@ -120,7 +173,7 @@ Depression, anxiety, postnatal depression, schizophrenia, grief, bipolar depress
 Implanon insertion and removal, IUD insertion and removal, skin cancer removal, ingrown toenail repair, tongue tie, vasectomy. Not all procedures are done by all doctors — please call the practice.
 
 ### IUD Insertion
-This involves a visit to discuss IUD suitability and then a separate appointment for insertion.
+Dr Roslyn Mackenzie at YourGP@Crace. This involves a visit to discuss IUD suitability and then a separate appointment for insertion.
 
 ### Musculoskeletal
 Diagnosis and assessment of all types of joint and muscle sprains and strains.
@@ -132,7 +185,7 @@ Dr John Deery only. Tongue tie is a common condition of newborn children. He can
 Yellow fever vaccine is available at Denman and Crace. Please bring any previous immunisation records.
 
 ### Skin Checks
-Multiple doctors provide skin checks. Skin checks require a long appointment. Please do not wear make-up.
+Dr Julie Beuth, Dr Ian Chan, Dr Sam Primrose, Dr Neena Sood and Dr Kit Wong. Skin checks require a long appointment. Please do not wear make-up.
 
 ### Vasectomy
 Initial consult with Dr John Deery at either Lyneham or Denman. The procedure is performed at Crace only on Thursday and Friday mornings. See canberravasectomy.com.au for more information.
@@ -160,7 +213,7 @@ Book online via HotDoc or call the practice. If your usual GP is not available, 
 A proportion of appointments are reserved for urgent bookings each day. You can secure an 'on the day' appointment by booking online after midnight or by calling from 8am. When fully booked, you can request a fit-in appointment.
 
 ### Billing
-Payment is required at the time of consultation. The GPs do not bulk bill. Saturday standard appointments are $146 and long appointments $240. All Workers' Compensation/Third Party cases are required to pay at the consultation time.
+Payment is required at the time of consultation. The GPs do not bulk bill. Consultation fees: Level B (<20min): $117 ($107 for pensioners), Level C (<40min): $213 ($193 for pensioners), Level D (<60min): $317 ($281 for pensioners), Level E (>60min): $459 ($439 for pensioners). Saturday fees: Level B: $146 | Level C: $240 | Level D: $364 | Level E: $488. All Workers' Compensation/Third Party cases are required to pay at the consultation time.
 
 ### Parking
 There is easy and plentiful parking right outside the practice. There are two disabled car parks outside the front door.
@@ -181,7 +234,7 @@ The majority of results are notified via SMS. Results are available online to vi
 Your GP can be contacted during business hours. Your GP will generally not take phone calls — you may leave a message.
 
 ### Repeat Prescriptions
-Your GP requests that you attend for review for a repeat prescription. This is best practice medicine.
+Your GP requests that you attend for review for a repeat prescription. This is best practice medicine. An administration fee of $30 may apply for prescriptions without an appointment.
 
 ### E-Mail
 E-mail to reception is not secure. To send a message to your doctor, use the contact form on the Contact page. Documents for your doctor can be sent to noreply@yourgpcanberra.com.au.
@@ -193,15 +246,20 @@ Your GP values preventative health care. You will be notified via SMS of reminde
 - CALMS (Canberra Afterhours Locum Medical Service): 1300 422 567
 - Healthdirect (24/7 nurse helpline): 1800 022 222
 - Walk-in Nurse Centres: 7:30am–10pm, no appointment needed
+- Saturday morning clinic at YourGP@Crace by appointment
+- Urgent after hours care for regular patients (requires prepayment of $300)
 
 ### Accreditation
 Accredited with AGPAL (Australian General Practice Accreditation Limited).
 
 ### Teaching Practice
-YourGP is a teaching practice. Third year medical students from ANU sit in with GPs for six-week rotations. GPs also teach and provide supervision to GP registrars.
+YourGP is a teaching practice. Third year medical students from ANU sit in with GPs for six-week rotations. GPs also teach and provide supervision to GP registrars. Current registrars: Dr Raymond Liu and Dr Adam Wiley.
 
 ### Suggestions or Complaints
 Feedback is welcome via the contact form. If unresolved, complaints can be directed to the Community & Healthcare Complaints Commissioner, GPO Box 321, Canberra ACT 2601.
+
+### Privacy Policy
+YourGP's full privacy policy (reviewed February 2026) is available on the Privacy Policy page.
 
 ---
 
@@ -212,6 +270,40 @@ Feedback is welcome via the contact form. If unresolved, complaints can be direc
 - **Online**: Contact form available on the website
 - **Documents**: noreply@yourgpcanberra.com.au
 - **Facebook**: facebook.com/YourGPCrace/
+
+---
+
+## Careers
+
+YourGP is actively recruiting excellent GPs, nurses, and admin team members across 3 clinics, 33 consulting rooms, serving 30,000+ patients per year.
+
+### Why GPs Choose YourGP
+- All consulting rooms at Crace have views to the outside — clinics designed so doctors actually want to work in them
+- Surgical theatre space and nurse treatment rooms across all sites
+- AI transcription tools available — camera and microphone in every room
+- Strong skin cancer, minor surgery, and joint injection team with mentorship available
+- Develop your special interests — your patient panel reflects how you practise
+- Preferred training location for GP registrars in Canberra
+- GPs are tenants hiring YourGP to provide services and facilities so they can serve their patients
+- Complete freedom — no lock-in contracts, no set hours, no pressure
+- Excellent admin and nursing support so you can focus on patients
+- Full control over your hours and leave
+- 1.5% DNA rate — your time is respected
+- Competitive service fee with strong billing discipline
+- GP satisfaction surveyed every four months
+- Two of three clinics (Crace and Denman) are in a Distribution Priority Area
+- Visa sponsorship available for eligible international medical graduates
+
+### What Your Day Looks Like as a GP
+When you first join, we start you with a reduced patient load — as few as 2-3 patients per hour — so you have time to learn our systems and settle in. We then gradually increase your patient flow as you're ready. Our established GPs typically see 3-4 patients per hour. Your patients already trust our brand, so about 80% of the trust gap is covered before you meet them. We provide full administrative and nursing support. You focus on medicine.
+
+### Nurses
+Varied days with face-to-face patient time, health coaching, and clinical support. Minimum 20 hours of professional development per year.
+
+### Admin Team
+First point of contact for patients and backbone of GP support across 30,000+ patient visits per year. Training, career pathways, and a supportive workplace.
+
+Express interest via the contact form to receive the GP Information Pack with full details on earnings, billing model, and support.
 
 ---
 

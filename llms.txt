@@ -2,7 +2,7 @@
 
 > General practice in Crace, Canberra — Genuine Care, Clinical Excellence.
 
-YourGP@Crace is a 20-room purpose-built general practice located in Crace, a suburb of Canberra in the Australian Capital Territory. Part of the YourGP network of independent practices (Crace, Denman Prospect, and Lyneham), it offers comprehensive general practice services including skin cancer checks, minor procedures, chronic disease management, and preventive care. The practice is AGPAL accredited and is a teaching practice affiliated with the Australian National University.
+YourGP@Crace is a 20-room purpose-built general practice located in Crace, a suburb of Canberra in the Australian Capital Territory. Part of the YourGP network of independent practices (Crace, Denman Prospect, and Lyneham), it offers comprehensive general practice services including skin cancer checks, minor procedures, chronic disease management, and preventive care. The practice is AGPAL accredited and is a teaching practice affiliated with the Australian National University. YourGP is actively recruiting GPs, nurses, and admin team members across all three clinics (33 consulting rooms, 30,000+ patients per year).
 
 ## Key Information
 
@@ -48,5 +48,5 @@ YourGP@Crace is a 20-room purpose-built general practice located in Crace, a sub
 - [New Patient](https://www.yourgpcrace.com.au/patient/): New patient information, forms, after hours care
 - [FAQ](https://www.yourgpcrace.com.au/faq/): Billing, appointments, parking, results, privacy policy
 - [Contact](https://www.yourgpcrace.com.au/contact/): Contact form, feedback, directions
-- [Careers](https://www.yourgpcrace.com.au/careers/): Current job openings
+- [Careers](https://www.yourgpcrace.com.au/careers/): GP, nursing, and admin team recruitment
 - [Privacy Policy](https://www.yourgpcrace.com.au/privacy-policy/): Full privacy policy
