@@ -32,21 +32,21 @@ YourGP@Crace is a 20-room purpose-built general practice located in Crace, a sub
 
 ## Sister Practices
 
-- [YourGP@Lyneham](https://www.yourgplyneham.com.au) — 62 Brigalow St, Lyneham ACT 2602
-- [YourGP@Denman](https://www.yourgpdenman.com.au) — 1B Felstead Vista, Denman Prospect ACT 2611
+- [YourGP@Lyneham](https://yourgplyneham.com.au) — 62 Brigalow St, Lyneham ACT 2602
+- [YourGP@Denman](https://yourgpdenman.com.au) — 1B Felstead Vista, Denman Prospect ACT 2611
 
 ## Specialist Clinics
 
-- [Canberra Vasectomy](https://www.canberravasectomy.com.au) — Dr John Deery, no-scalpel vasectomy
-- [YourSkinCBR](https://www.yourskincbr.com.au) — Skin cancer specialist GPs at Crace and Denman
+- [Canberra Vasectomy](https://canberravasectomy.com.au) — Dr John Deery, no-scalpel vasectomy
+- [YourSkinCBR](https://yourskincbr.com.au) — Skin cancer specialist GPs at Crace and Denman
 
 ## Pages
 
-- [Home](https://www.yourgpcrace.com.au/): Welcome, practice philosophy, opening hours, locations map
-- [Doctors](https://www.yourgpcrace.com.au/doctors/): GP profiles, qualifications, special interests, availability
-- [Services](https://www.yourgpcrace.com.au/services/): Full list of clinical services and allied health
-- [New Patient](https://www.yourgpcrace.com.au/patient/): New patient information, forms, after hours care
-- [FAQ](https://www.yourgpcrace.com.au/faq/): Billing, appointments, parking, results, privacy policy
-- [Contact](https://www.yourgpcrace.com.au/contact/): Contact form, feedback, directions
-- [Careers](https://www.yourgpcrace.com.au/careers/): GP, nursing, and admin team recruitment
-- [Privacy Policy](https://www.yourgpcrace.com.au/privacy-policy/): Full privacy policy
+- [Home](https://yourgpcrace.com.au/): Welcome, practice philosophy, opening hours, locations map
+- [Doctors](https://yourgpcrace.com.au/doctors/): GP profiles, qualifications, special interests, availability
+- [Services](https://yourgpcrace.com.au/services/): Full list of clinical services and allied health
+- [New Patient](https://yourgpcrace.com.au/patient/): New patient information, forms, after hours care
+- [FAQ](https://yourgpcrace.com.au/faq/): Billing, appointments, parking, results, privacy policy
+- [Contact](https://yourgpcrace.com.au/contact/): Contact form, feedback, directions
+- [Careers](https://yourgpcrace.com.au/careers/): GP, nursing, and admin team recruitment
+- [Privacy Policy](https://yourgpcrace.com.au/privacy-policy/): Full privacy policy

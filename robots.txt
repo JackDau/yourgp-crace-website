@@ -6,7 +6,7 @@ User-agent: *
 Content-Signal: search=yes,ai-input=yes,ai-train=no
 Allow: /
 
-Sitemap: https://www.yourgpcrace.com.au/sitemap.xml
+Sitemap: https://yourgpcrace.com.au/sitemap.xml
 
 # -----------------------------------------------------------------------
 # AI search & answer engines — ALLOWED
@@ -39,6 +39,6 @@ Disallow: /
 
 # -----------------------------------------------------------------------
 # LLM context files
-#   https://www.yourgpcrace.com.au/llms.txt
-#   https://www.yourgpcrace.com.au/llms-full.txt
+#   https://yourgpcrace.com.au/llms.txt
+#   https://yourgpcrace.com.au/llms-full.txt
 # -----------------------------------------------------------------------
