@@ -233,7 +233,7 @@ Your GP can be contacted during business hours. Your GP will generally not take 
 Your GP requests that you attend for review for a repeat prescription. This is best practice medicine. An administration fee of $30 may apply for prescriptions without an appointment.
 
 ### E-Mail
-E-mail to reception is not secure. To send a message to your doctor, use the contact form on the Contact page. Documents for your doctor can be sent to noreply@yourgpcanberra.com.au.
+E-mail to reception is not secure. To send a message to your doctor, use the contact form on the Contact page. Documents for your doctor can be sent to noreply@ygp.au.
 
 ### Reminders
 Your GP values preventative health care. You will be notified via SMS of reminders when due.
@@ -264,7 +264,7 @@ YourGP's full privacy policy (reviewed February 2026) is available on the Privac
 - **Phone**: (02) 6109 0000
 - **Address**: 1/5 Baratta Street, Crace ACT 2911
 - **Online**: Contact form available on the website
-- **Documents**: noreply@yourgpcanberra.com.au
+- **Documents**: noreply@ygp.au
 - **Facebook**: facebook.com/YourGPCrace/
 
 ---
