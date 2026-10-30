@@ -184,7 +184,10 @@ document.addEventListener('DOMContentLoaded', function() {
         cards.forEach(function(c) { c.classList.remove('selector'); });
       }
       buttons.forEach(function(b) { b.setAttribute('aria-pressed', b.getAttribute('data-filter') === name ? 'true' : 'false'); });
-      if (countEl) countEl.textContent = name === 'all' ? '' : 'Showing ' + shown + ' doctor' + (shown === 1 ? '' : 's');
+      if (countEl) countEl.textContent = name === 'all' ? '' : (shown === 0
+        ? 'None of our doctors at this clinic currently offer this. Please call (02) 6109 0000 to book at one of our other YourGP clinics.'
+        : 'Showing ' + shown + ' doctor' + (shown === 1 ? '' : 's'));
+      if (countEl) countEl.classList.toggle('is-empty', name !== 'all' && shown === 0);
       if (noteEl) noteEl.hidden = name !== 'new-patients';
       if (window.history && history.replaceState) {
         var url = name === 'all' ? location.pathname : location.pathname + '?filter=' + name;
