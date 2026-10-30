@@ -37,7 +37,7 @@ Phone: (02) 6109 0000
 ## Doctors
 
 ### Dr Mohammed Asif — Skin
-**Accepting new patients for skin checks**
+**Accepting new patients for skin-related visits only.**
 Dr Asif is an accredited Skin Cancer Doctor, well regarded for his warm, caring, and compassionate approach to patient care. He is highly skilled in skin cancer flap and graft surgery and advanced dermoscopy, enabling precise diagnosis and effective management of complex skin cancers. He holds postgraduate qualifications in Skin Cancer Surgery, Skin Cancer Medicine, and Dermatology. He is a member of the Australasian Skin Cancer College, where he was awarded the College’s Distinguished Scholarship as the top graduate in the Advanced Surgery & Medicine program. He also completed the College’s Advanced Dermoscopy course with Distinction, and contributes to medical education as a Tutor in the College’s advanced training programs. Dr Asif is of Fijian heritage. Outside of medicine, he is a devoted parent, an active supporter of children’s charities, and an enthusiastic Rugby Union fan.
 **Availability**: Crace — Tuesday, Thursday
 
@@ -51,6 +51,7 @@ Dr Pratap is currently undertaking a Masters in Paediatrics with the Sydney Chil
 **Availability**: Crace — Monday to Friday
 
 ### Dr Reiham Ibrahim — Skin
+**Accepting new patients for skin-related visits only.**
 Soon to be an Accredited Skin Cancer Doctor with the Skin Cancer College Australasia, Dr Ibrahim has removed thousands of lesions and provides expert care for both simple and complex skin cancers at our dedicated Skin Clinic. Whether you're booking a routine skin check or need expert care for a suspicious spot, you're in exceptionally capable hands with Dr Reiham Ibrahim.
 
 ### Dr Roslyn Mackenzie
@@ -64,7 +65,7 @@ Mara is a caring and thorough GP who enjoys supporting patients across all stage
 **Availability**: Crace — Monday, Tuesday, Thursday, Friday, selected Saturdays
 
 ### Dr Andrew Mitchell — General Surgeon
-**New patients welcome** (requires GP referral)
+**Accepting new patients with a GP referral.**
 Dr Mitchell is a specialist general surgeon. He specialises in a range of surgical services. Dr Mitchell can perform minor surgical procedures onsite at YourGP@Crace. Operations requiring general anaesthetic will be arranged at a private hospital.
 **Availability**: Crace — Thursday
 
@@ -79,7 +80,7 @@ Dr Kristy Muir is a graduate of The University of Melbourne, 2008. She particula
 **Availability**: Crace — Monday, Tuesday, Wednesday
 
 ### Dr Sheahan Ranasinghe
-**Sees existing patients of YourGP**
+**Not accepting new patients. Happy to see any YourGP practice patient.**
 Special interests include care of the elderly, acute medical care and injury management, men's health, work cover cases, dermatology and minor skin surgery. He strongly believes in evidence-based medicine and a whole of patient approach to managing care.
 **Availability**: Crace — Monday, Tuesday, Wednesday, Thursday, selected Saturdays
 
@@ -108,17 +109,17 @@ Lisa graduated from Otago University in 1993. She was awarded her General Practi
 **Availability**: Crace — Monday, Tuesday, Wednesday, Friday
 
 ### Dr Raymond Liu
-**New patients welcome**
+**Accepting new patients at Crace. At Lyneham, sees YourGP practice patients and new patients for skin-related visits only.**
 Raymond is passionate about holistic patient care and has strong interests ranging from skin cancer, chronic disease management to end-of-life care. Raymond completed his medical degree at the Australian National University and finished the Sydney Child Health Program. He is currently pursuing a Master in Skin Cancer Medicine.
 **Availability**: Crace — Monday, Tuesday; Lyneham — Thursday
 
 ### Dr Krystel Chin
-**Only accepts existing patients of YourGP**
+**New patients welcome**
 Dr Krystel hails from Mauritius and holds a medical degree from the University of Manchester, UK. After moving to Australia in 2008, she gained extensive experience in acute and emergency medicine before transitioning to General Practice in Canberra. Areas of interest: Women's Health, Antenatal Care, Paediatrics, Preventative Health, Minor Surgery, Chronic Disease Management.
 **Availability**: Crace — Monday, Tuesday, Wednesday, Thursday
 
 ### Dr Sam Primrose
-**Not accepting new patients except skin patients**
+**Accepting new patients for skin-related visits only. Also sees family members of existing patients.**
 Grew up in Belconnen. Studied medicine at Flinders University, graduating in 2014. Diploma of Child Health, Sydney Children's Hospital. Areas of interest: Paediatrics, Men's Health, Mental Health, Skin Checks, Family Health, Sports Medicine.
 **Availability**: Crace — Monday, Tuesday, Thursday, Friday
 
@@ -128,12 +129,12 @@ Ian has completed advanced training with a Masters in Skin Cancer Medicine throu
 **Availability**: Crace — Monday, Tuesday, Wednesday, Friday
 
 ### Dr Penny Gosling
-**Not accepting new patients**
+**Happy to see any YourGP practice patient and family members of existing patients, including babies. New patients by arrangement.**
 Graduated from the Australian National University in 2008. Areas of interest: PCOS, Sexual Health, Women's Health, Fertility and Pregnancy Care, Lactation Support, Infant and Child Health.
 **Availability**: Crace — Monday to Friday, selected Saturdays
 
 ### Dr Kit Wong — Skin
-**Sees existing patients and accepting new patients for skin-related visits only**
+**Accepting new patients for skin-related visits only.**
 Graduated with honours from the University of Sydney in 2006. RACGP Fellowship completed in 2011. Masters of Medicine (Skin Cancer) from the University of Queensland in 2018. Over 10 years experience in Skin Cancer Medicine. Consultation fee: $190 regular consult, $230 long appointment.
 **Availability**: Crace — Wednesday, Friday
 
@@ -143,11 +144,11 @@ A Kiwi import with over 35 years experience in general practice. Owned her own p
 **Availability**: Crace — Tuesday, Thursday
 
 ### Dr Janine Kelly
-**Not accepting new patients**
+**Not accepting new patients, except family members of existing patients.**
 Graduate of the University of Sydney in 1995. Eighteen years of experience in General Practice. Special interests in women's health, pregnancy and paediatrics.
 **Availability**: Crace — Monday to Friday
 
-### Dr John Deery
+### Dr John Deery — Vasectomy
 **Accepting new vasectomy patients only**
 From the moment John started General Practice in 2003, he desired to one day open an outstanding practice. He is passionate about providing amazing health care to patients. John graduated from the University of NSW in 2000.
 **Availability**: Crace — Thursday, Friday; Denman — Monday; Lyneham — Wednesday
